@@ -11,13 +11,13 @@ Python, Django, Django Rest Framework , HTML ,CSS, Javascript
 
 ## Run the app
 To create Django Project:
-## django-admin startproject projectname
+django-admin startproject projectname
 
 To create app inside Project:
-## python manage.py startapp appname
+python manage.py startapp appname
 
 To run django server:
-## python manage.py runserver
+python manage.py runserver
 
 You will get the dev server
 
